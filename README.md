@@ -27,5 +27,5 @@ Descriptive_24_2023.Rd: Descriptive statistics (Mean, Mode, Median, Standard Dev
 Feb-9.R: Analysis of Variance (ANOVA) test and ggscatter plot.
 Jan-31.R: Correlation test analysis and scatter plotting.
 March-23.R: T-test analysis and line plot.
-selected function(chisq.test, pData, rep, colnames, factor, eBayes, decideTests, topTable, read.tree, plot, str, write.tree, library, setwd, ReadAffy, exprs, read.csv, read.delim, write.table, roundPhylogram, unroot, str, write.tree, RMA, read.table). Correlation-Plot.pdf, Normal distribution Ttest plot.
+selected function(chisq.test, pData, rep, colnames, factor, glimpse(df), eBayes, decideTests, topTable, read.tree, plot, str, write.tree, library, setwd, ReadAffy, exprs, read.csv, read.delim, write.table, roundPhylogram, unroot, str, write.tree, RMA, read.table). Correlation-Plot.pdf, Normal distribution Ttest plot.
 
